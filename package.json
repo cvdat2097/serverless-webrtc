@@ -9,6 +9,9 @@
     "wrtc": "~0.0.29",
     "ansi": "0.3.0"
   },
+  "scripts": {
+    "start": "node serverless-webrtc.js"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/cjb/serverless-webrtc"
